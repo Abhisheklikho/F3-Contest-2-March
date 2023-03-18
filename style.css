@@ -1,0 +1,42 @@
+*{
+    /* margin: 0px;
+    padding:0px; */
+}
+#div1{
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+#div2{
+    background-color: rgb(82, 82, 76);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#div2:hover{
+    background-color: rgb(68, 62, 62);
+       
+}
+table {
+        border-collapse: collapse;
+        width: 100%;
+        
+      }
+      #start-btn{
+       height: 50px;
+       width: 120px;
+       margin-left: 45%;
+       background-color: rgb(60, 70, 67);
+       color: rgb(255, 255, 255);
+       border: none;
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      }
+      #start-btn:hover{
+        background-color: white;
+        color: black;
+        
+      }
+      th,td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+        color: #fffcfc;
+      }
+    
